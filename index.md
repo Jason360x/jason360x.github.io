@@ -1,7 +1,7 @@
 ## Willkommen auf Jason's Release Website
 
 ### Jason's RPG Tool
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/xciV63W"><a href="//imgur.com/xciV63W"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>{text-align: center}
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/xciV63W"><a href="//imgur.com/xciV63W"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Jason's RPG Tool ist ein Tool, mit dem man Charaktere in seinem Pen and Paper Rollenspiel speichern kann, um als Gamemaster immer Zugriff auf die Werte der Spieler zu haben.
 
@@ -29,7 +29,7 @@ Das Tool ist in C# mit Visual Studio geschrieben und benötigt zum laufen ebenfa
 ----
 
 ### Jason's RPG Dice Simulator Android
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/f2bGIbh"><a href="//imgur.com/f2bGIbh">Jason&#39;s RPG Dice Android</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>{text-align: center}
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/f2bGIbh"><a href="//imgur.com/f2bGIbh">Jason&#39;s RPG Dice Android</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Jason's RPG Dice Simulator Android erlaubt verdecktes Würfeln über das Android Handy.
 
