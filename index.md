@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## Willkommen auf Jason's Release Website
 
-You can use the [editor on GitHub](https://github.com/Jason360x/jason360x.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+##Jason's RPG Tool
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/LEHyteT" data-context="false"><a href="//imgur.com/LEHyteT"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Bitte beachte, dass sich Jason's RPG Tool in einem Pre-Release Stadium befindet und **nicht** die Qualität eines fertigen Programmes besitzt.
+Unter anderem fehlen:
+- Logos beim Start
+- Ein gut aussehender Shop Knopf
+- Der komplette Asterius PnP Modus
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jason360x/jason360x.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Der TES PnP Modus ist jedoch fertig und voll funktionsfähig, genau wie der Shopmodus.
+Die App läuft je nach Windows Systemsprache in deutsch oder Englisch und **benötigt** Administratorrechte, da es ansonsten zu Problemen beim Speichern kommen kann.
