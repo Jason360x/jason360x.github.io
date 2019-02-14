@@ -18,7 +18,7 @@ Der TES PnP Modus ist jedoch fertig und voll funktionsfähig, genau wie der Shop
 
 Das Tool läuft je nach Windows Systemsprache in deutsch oder englisch und **benötigt** Administratorrechte, da es ansonsten zu Problemen beim Speichern kommen kann.
 
-Das Tool ist in C# mit Visual Studio geschrieben und benötigt zum laufen ebenfalls [.NET Framework 4.6.1](https://www.microsoft.com/de-ch/download/details.aspx?id=49982).
+Das Tool ist in C# mit Visual Studio geschrieben und benötigt zum Laufen ebenfalls [.NET Framework 4.6.1](https://www.microsoft.com/de-ch/download/details.aspx?id=49982).
 
 #### Downloadlink:
 
@@ -31,7 +31,7 @@ Das Tool ist in C# mit Visual Studio geschrieben und benötigt zum laufen ebenfa
 ### Jason's RPG Dice Simulator Android
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/f2bGIbh"><a href="//imgur.com/f2bGIbh">Jason&#39;s RPG Dice Android</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
-Jason's RPG Dice Simulator Android erlaubt verdecktes Würfeln über das Android Handy.
+Jason's RPG Dice Simulator Android erlaubt würfeln über das Android Handy.
 
 Die App ist in C# mit der Unity Engine geschrieben.
 
