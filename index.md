@@ -22,9 +22,9 @@ Das Tool ist in C# mit Visual Studio geschrieben und benötigt zum Laufen ebenfa
 
 #### Downloadlink:
 
-[Installation](https://github.com/Jason360x/jason360x.github.io/releases/download/v0.6-alpha.2/Installer.7z)
+[Installation](https://github.com/Jason360x/jason360x.github.io/releases/download/v0.62-alpha.3/Installer.7z)
 
-[Portable Version](https://github.com/Jason360x/jason360x.github.io/releases/download/v0.6-alpha.2/JasonsRPGTool.7z)
+[Portable Version](https://github.com/Jason360x/jason360x.github.io/releases/download/v0.62-alpha.3/JasonsRPGTool.7z)
 
 ----
 
