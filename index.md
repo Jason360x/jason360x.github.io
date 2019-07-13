@@ -14,21 +14,23 @@ Features:
 
 Das Tool läuft je nach Windows Systemsprache in deutsch oder englisch und **benötigt** Administratorrechte, da es ansonsten zu Problemen beim Speichern kommen kann.
 
-Es ist in C# mit Visual Studio geschrieben und benötigt zum Laufen ebenfalls [.NET Framework 4.6.1](https://www.microsoft.com/de-ch/download/details.aspx?id=49982).
+Es ist in C# mit Visual Studio geschrieben und benötigt zum Laufen ebenfalls [.NET Framework 4.6.1](https://www.microsoft.com/de-de/download/details.aspx?id=49982).
 
 #### Downloadlinks:
 
-[Installation](https://github.com/Jason360x/jason360x.github.io/releases/download/v1.5.0/Install.Jasons.RPG.Tool.zip)
-<br>**Install Jason's RPG Tool.zip Hashes:**
-<br> MD5: 41a10ec1febbb96c09b3d34eb89805d8
-<br> SHA1: d8446b2a6e2dccd5e59a9b89f9a83afef1cae2e9
-<br> [Virustotal Install Jason's RPG Tool.exe](https://www.virustotal.com/gui/file-analysis/YmY0Y2Q1YjA1NGIzYmUyNTZiMzY2ZTdiOTMzYmIyY2Y6MTU2Mjk3NTIzOQ==/)
+[Installation](https://github.com/Jason360x/jason360x.github.io/releases/download/v1.6/Install.Jasons.RPG.Tool.zip)
+<br>**Install.Jasons.RPG.Tool.zip Hashes:**
+<br> MD5: a2a17c0e2466001c99a209890c7abf2c
+<br> SHA1: 16fa2d71372730a428416a28b9ab82d12d835dc8
+<br> CRC32: d91948e9
+<br> [Virustotal Install Jason's RPG Tool.exe](https://www.virustotal.com/gui/file-analysis/ZGQwMmZlNmVkMmI4MmI0OGViNzUxMDMyYjk1MzRmNGY6MTU2MzAzMTMzNw==/)
 
 [Portable Version](https://github.com/Jason360x/jason360x.github.io/releases/download/v1.5.0/Jasons.RPG.Tool.Portable.zip)
 <br>**Jasons.RPG.Tool.Portable.zip Hashes:**
-<br> MD5: c19fd091f3d737a68c9f30a0a1da54e7
-<br> SHA1: 27a44fefe7062334228e84d1612aa46456892a59
-<br> [Virustotal Jason's RPG Tool.exe](https://www.virustotal.com/gui/file-analysis/NTZhYzA1ODRjOTgxMDVkZjdjMjVmYzBhNWYwNzczYzE6MTU2Mjk3NTUwMQ==/) 
+<br> MD5: 35942b5ace7cb9aad497a5cfea6d10c2
+<br> SHA1: 9bf91d74c54dd6415247e6a7c7484c6932239d24
+<br> CRC32: f4dfa101
+<br> [Virustotal Jason's RPG Tool.exe](https://www.virustotal.com/gui/file-analysis/NjQ0MGZjNTBkZGUwYzJlNmI5MjY4ZWY2M2RkYTNiNDI6MTU2MzAzMTQ1Mg==/) 
 
 
 ----
