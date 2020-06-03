@@ -18,19 +18,19 @@ Es ist in C# mit Visual Studio geschrieben und benötigt zum Laufen ebenfalls [.
 
 #### Downloadlinks:
 
-[Installation](https://github.com/Jason360x/jason360x.github.io/releases/download/v1.0.0/Jasons.RPG.Tool.Installer.zip)
-<br>**Jasons.RPG.Tool.Installer.zip Hashes:**
-<br> MD5: ad7bb39aa6cadb4b4e3733d2d50bfc85
-<br> SHA1: 3ca54e4f04ce88e573d71768ce2d13f42577f12a
-<br> CRC32: c3aedf29
-<br> [Virustotal InstallJasonsRPGTool.exe](https://www.virustotal.com/gui/file-analysis/MDZiNTQ1MGMyYWM5ZDFjYjhkMzY5Nzc2OWJlODgxODM6MTU1MzY5Nzc4Mg==)
+[Installation](https://github.com/Jason360x/jason360x.github.io/releases/download/v2.0/InstallJasonsRPGTool.exe)
+<br>**InstallJasonsRPGTool.exe Hashes:**
+<br> MD5: ca4aaf231e44a2489607d4dcc6c71461
+<br> SHA1: 17e8cc03ceb87b807ef2c382cfc183e7adbd1a3f
+<br> SHA256: 367098dbf8f039bf94be2adff6e6a75a112bbd5ae3feba019d25607aaf3d4ec1
+<br> [Virustotal InstallJasonsRPGTool.exe](https://www.virustotal.com/gui/file/367098dbf8f039bf94be2adff6e6a75a112bbd5ae3feba019d25607aaf3d4ec1/)
 
-[Portable Version](https://github.com/Jason360x/jason360x.github.io/releases/download/v1.0.0/Jasons.RPG.Tool.Portable.zip)
+[Portable Version](https://github.com/Jason360x/jason360x.github.io/releases/download/v2.0/Jasons.RPG.Tool.Portable.zip)
 <br>**Jasons.RPG.Tool.Portable.zip Hashes:**
-<br> MD5: d429f3dcd4836dcc3a931f09a5f0c630
-<br> SHA1: f326c2c1aaebe7b1f510f762c3a499aa593570a7
-<br> CRC32: 4651bafb
-<br> [Virustotal Jason's RPG Tool.exe](https://www.virustotal.com/gui/file-analysis/ZDZmOWM3OGYxODc5ZGEyMWJhM2ExMWJiYzI4MjY5ZTA6MTU1MzY5NzgzNg==/)
+<br> MD5: 062fa4ef9e843fedc88ce9ddd5555f6f
+<br> SHA1: bb2bd49924dbc52204a3a23117b337ea02326518
+<br> SHA256: 346c7828385169c823eae3b8b4318cce79a544b2aea52117e7d43db03f222b89
+<br> [Virustotal Jasons.RPG.Tool.Portable.zip](https://www.virustotal.com/gui/file/346c7828385169c823eae3b8b4318cce79a544b2aea52117e7d43db03f222b89/)
 
 
 ----
