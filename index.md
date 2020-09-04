@@ -12,8 +12,8 @@ Features:
 - Würfeln mit einem benutzerdefinierten Würfel oder mit D4, D6, D10, D12, D20 oder D100
 - Informiert über ein neues Update
 - Bietet die Möglichkeit eines Back-Ups der Charaktere (und das Laden des Back-Ups)
-- Automatisches Dark- bzw. Light Theme bei Windows 10 (je nach Systemeinstellungen) - forcierbar mit den Startargumenten -dark oder -light.
-- Möglichkeit die Elemente zu Sperren um versehentliches Bearbeiten zu verhindern
+- Automatisches Dark- bzw. Light Theme bei Windows 10 (je nach Systemeinstellungen) - forcierbar mit den Startargumenten -dark oder -light
+- Möglichkeit die Elemente zu Sperren, um versehentliches Bearbeiten zu verhindern
 
 Das Tool läuft je nach Windows Systemsprache in deutsch oder englisch und **benötigt** Administratorrechte, da es ansonsten zu Problemen beim Speichern kommen kann.
 
